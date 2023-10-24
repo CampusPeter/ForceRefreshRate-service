@@ -1,0 +1,9 @@
+C:\Users\pauvdbp\Desktop\ForceRefreshRateService\bin\x64\Release\ForceRefreshRateService.exe.config
+C:\Users\pauvdbp\Desktop\ForceRefreshRateService\bin\x64\Release\ForceRefreshRateService.exe
+C:\Users\pauvdbp\Desktop\ForceRefreshRateService\bin\x64\Release\ForceRefreshRateService.pdb
+C:\Users\pauvdbp\Desktop\ForceRefreshRateService\obj\x64\Release\ForceRefreshRateService.csproj.AssemblyReference.cache
+C:\Users\pauvdbp\Desktop\ForceRefreshRateService\obj\x64\Release\ForceRefreshRateService.ProjectInstaller.resources
+C:\Users\pauvdbp\Desktop\ForceRefreshRateService\obj\x64\Release\ForceRefreshRateService.csproj.GenerateResource.cache
+C:\Users\pauvdbp\Desktop\ForceRefreshRateService\obj\x64\Release\ForceRefreshRateService.csproj.CoreCompileInputs.cache
+C:\Users\pauvdbp\Desktop\ForceRefreshRateService\obj\x64\Release\ForceRefreshRateService.exe
+C:\Users\pauvdbp\Desktop\ForceRefreshRateService\obj\x64\Release\ForceRefreshRateService.pdb
